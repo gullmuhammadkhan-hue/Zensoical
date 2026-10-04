@@ -1,0 +1,6 @@
+{
+  "name": "ZenSocial",
+  "description": "Modern and professional social media platform connecting world leaders, educational institutions, businesses, and communities worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
